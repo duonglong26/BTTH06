@@ -1,0 +1,33 @@
+body {
+    font-family: system-ui;
+    color: white; 
+    text-align: center;
+}
+#clock{
+    margin-top: 16px;
+    color: red;
+    padding: 10px 10px;
+}
+tr{
+    display: flex;
+    justify-content: center;
+}
+#box1{
+    background-color: #000;
+    border: 2px solid #ccc;
+}
+#box2{
+    border: 2px solid #ccc;
+    border-left: none;
+}
+
+#date{
+    width: 800px;
+    margin: 50px auto;
+    text-align: center;
+    background: black;
+    color: #000;
+}
+h2{
+    color: #000;
+}
